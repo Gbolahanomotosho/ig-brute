@@ -49,8 +49,6 @@
 
 
 
- unzip ig-brute.zip
-
 
 
  pip3 install -r requirements.txt
